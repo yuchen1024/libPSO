@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -std=c++11 -pthread -O3 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_PSU.dir/test/test_PSU.cpp.o -o ../bin/test_PSU   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lmcl -lgmp 
