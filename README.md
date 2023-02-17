@@ -48,4 +48,8 @@ download [mcl](https://github.com/herumi/mcl), then
 ```
 Then you can find the exe files under /bin
 
+## Updates
+This repo is obsoleted due to its immaturity. 
+We refer to https://github.com/yuchen1024/Kunlun/mpc for a neat and efficient implementation. 
+
 
